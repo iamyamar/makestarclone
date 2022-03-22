@@ -1,0 +1,19 @@
+{
+  "name": "makestar",
+  "version": "1.1.1",
+  "description": "library to simply add rating stars in you project",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamyamar/makestar.git"
+  },
+  "author": "Yash kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamyamar/makestar.git/issues"
+  },
+  "homepage": "https://github.com/iamyamar/makestar.git#readme"
+}
