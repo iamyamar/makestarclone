@@ -1,5 +1,5 @@
 {
-  "name": "makestar",
+  "name": "makestarclone",
   "version": "1.1.1",
   "description": "library to simply add rating stars in you project",
   "main": "dist/index.js",
