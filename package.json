@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/iamyamar/makestar.git/issues"
   },
-  "homepage": "https://github.com/iamyamar/makestar.git#readme"
+  "homepage": "https://github.com/iamyamar/makestar.git#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "babel-loader": "^8.2.4",
+    "webpack-cli": "^4.9.2",
+    "wepack": "^0.0.1"
+  }
 }
